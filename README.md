@@ -1,4 +1,4 @@
-# nodejs-ssl-server
+# nodejs-installation-AWS EC2 server with ssl
 
 How to deploy nodejs app to AWS EC2 Ubuntu 22 Server with free SSL and Nginx reverse proxy
 
